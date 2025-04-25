@@ -16,10 +16,10 @@ A fully automated Excel-VBA system for managing ingredients, calculating recipe 
 - Data Protection and Validation: Ensures numeric consistency, unique product IDs, and prevents invalid or duplicate entries.
 
 ## Solution Components:
-- Ingredient Manager (Add, update, validate, and manage ingredients)
-- Recipe Manager (Create, modify, and update recipes with dynamic cost/nutrition calculations)
-- Automated Backup and Recovery System (Smart restore feature for deleted recipes)
-- User Interfaces (Custom Interfaces and Excel Ribbon with easy navigation and automation triggers)
+- Ingredient Manager: Add, update, validate, and manage ingredients.
+- Recipe Manager: Create, modify, and update recipes with dynamic cost/nutrition calculations.
+- Automated Backup and Recovery System: Smart restore feature for deleted recipes.
+- Custom Interfaces: User friendly interfaces and custumized ribbon with easy navigation and automation triggers.
 
 ## Demo Video:
 - [Watch Demo](https://youtu.be/wwOtUFNklLU)
