@@ -18,7 +18,7 @@ A fully automated Excel-VBA system for managing ingredients, calculating recipe 
 ## Solution Components:
 - Ingredient Manager: Add, update, validate, and manage ingredients.
 - Recipe Manager: Create, modify, and update recipes with dynamic cost/nutrition calculations.
-- Automated Backup and Recovery System: Smart restore feature for deleted recipes.
+- Automated Backup and Recovery: Smart restore feature for deleted recipes.
 - Custom Interfaces: User friendly interfaces and custumized ribbon with easy navigation and automation triggers.
 
 ## Demo Video:
